@@ -4,7 +4,7 @@
         <description><![CDATA[Metasoft Solutions Pvt. Ltd.]]></description>
         <link>https://thegrid.ai/metasoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 08:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 08:14:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metasoft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/metasoft/6a4314db-9d77-4ccf-9c71-7ce7e6ca9076/index.html</link>
             <guid isPermaLink="false">6a4314db-9d77-4ccf-9c71-7ce7e6ca9076</guid>
             <pubDate>Wed, 20 Jan 2016 08:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coming Soon!!!]]></title>
-            <description><![CDATA[<h1>Coming Soon!!!</h1>]]></description>
-            <link>https://thegrid.ai/metasoft/fb5eca4a-33c7-41e3-a0ae-bc32f6910260/index.html</link>
-            <guid isPermaLink="false">fb5eca4a-33c7-41e3-a0ae-bc32f6910260</guid>
-            <pubDate>Wed, 20 Jan 2016 08:10:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
