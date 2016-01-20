@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[metasoft]]></title>
-        <description><![CDATA[metasoft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Metasoft Solutions Pvt. Ltd.]]></title>
+        <description><![CDATA[Metasoft Solutions Pvt. Ltd.]]></description>
+        <link>https://thegrid.ai/metasoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 11:11:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 08:02:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metasoft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coming Soon</p>]]></description>
-            <link>undefinedfb5eca4a-33c7-41e3-a0ae-bc32f6910260/index.html</link>
+            <title><![CDATA[Coming Soon!!!]]></title>
+            <description><![CDATA[<h1>Coming Soon!!!</h1>]]></description>
+            <link>https://thegrid.ai/metasoft/fb5eca4a-33c7-41e3-a0ae-bc32f6910260/index.html</link>
             <guid isPermaLink="false">fb5eca4a-33c7-41e3-a0ae-bc32f6910260</guid>
-            <pubDate>Mon, 18 Jan 2016 11:11:00 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 08:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
